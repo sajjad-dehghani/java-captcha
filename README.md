@@ -1,1 +1,1 @@
-# java-captcha
+A Simple Java Captcha Class
